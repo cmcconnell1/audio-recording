@@ -1,0 +1,109 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio files (often large and binary)
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.mp4
+*.m4a
+*.ogg
+*.flac
+*.alac
+*.aac
+
+# DAW project files (often contain absolute paths and are not portable)
+# Logic Pro
+*.logicx
+*.logic
+*.lso
+
+# Pro Tools
+*.ptx
+*.pts
+*.ptf
+Session File Backups/
+
+# Ableton Live
+*.als
+*.alc
+Backup/
+
+# FL Studio
+*.flp
+
+# Cubase
+*.cpr
+*.bak
+
+# Sample libraries and large binary files
+*.sf2
+*.sfz
+*.sfark
+*.nki
+*.nkm
+*.nkc
+*.nkr
+*.nkx
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js (if using web audio or JavaScript tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python (if using audio processing scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Rendered output files (often large)
+/renders/
+/bounces/
+/exports/
+/output/
